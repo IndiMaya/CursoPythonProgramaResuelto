@@ -1,10 +1,7 @@
-#Arregla el código hasta que no te dé errores.
+print("Cuando estás triste, no estás feliz.")
 
-print("""Cuando estás triste,
-No estás feliz.""")/
+print(" ")
 
-print("")
+print("El Bromas.")
 
-print(-El Bromas.)
-
-qrint('2019.')
+print(' 2019.')
